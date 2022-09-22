@@ -1,5 +1,5 @@
 # IBM-Project-25671-1659970243
-                       ![Screenshot (40)](https://user-images.githubusercontent.com/58494901/191813821-351a3f52-7488-4c7d-ba6d-e6e1c9da09ed.png)
+   ![Screenshot (40)](https://user-images.githubusercontent.com/58494901/191813821-351a3f52-7488-4c7d-ba6d-e6e1c9da09ed.png)
 
 Smart Fashion Recommender Application
 
