@@ -1,5 +1,5 @@
 # IBM-Project-25671-1659970243
-Smart Fashion Recommender Application 
+Smart Fashion Recommender Application
 
 College      : Muthayammal College of Engineering Rasipuram TAMILNADU- 637 408
 
