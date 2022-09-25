@@ -12,7 +12,7 @@ Profile      : https://github.com/IBM-EPBL/IBM-Project-25671-1659970243
 
 Team Leader Mr.Velmani J
 
-Member 1 Mr.MukesK M
+Member 1 Mr.Mukesh M
 
 Member 2 Mr.Muralidharan M
 
