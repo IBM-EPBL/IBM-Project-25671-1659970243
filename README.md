@@ -3,7 +3,7 @@
 
 Smart Fashion Recommender Application
 
-College      : Muthayammal College of Engineering Rasipuram TAMILNADU- 637 408
+College      : Muthayammal College of Engineering Rasipuram Namakkal(DT) TAMILNADU- 637 408
 
 College SPOC : Mrs. SUGANTHI C (Head of the Department CSE)
 
