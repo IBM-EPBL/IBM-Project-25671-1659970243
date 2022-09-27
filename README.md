@@ -2,6 +2,11 @@
    ![Screenshot (40)](https://user-images.githubusercontent.com/58494901/191813821-351a3f52-7488-4c7d-ba6d-e6e1c9da09ed.png)
 
 Smart Fashion Recommender Application
+Batch Name   : B7-1A3E
+
+Mentor(Industry) Name  : Sowjanya, Sandeep
+
+Instructor   : Kushboo
 
 College      : Muthayammal College of Engineering Rasipuram Namakkal(DT) TAMILNADU- 637 408
 
