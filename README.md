@@ -5,7 +5,9 @@ Smart Fashion Recommender Application
 
 Batch Name   : B7-1A3E
 
-Mentor(Industry) Name  : Sowjanya, Sandeep
+Mentor(Industry) Name  : Krishna Chaitanya
+
+Team ID      : PNT2022TMID41646
 
 Instructor   : Kushboo
 
